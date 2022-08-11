@@ -1,10 +1,10 @@
 /**
  * 수정해주세요!
  */
-var i = 'Comento Assignment';
+let i = 'Comento Assignment';
 
 function processArray(array) {
-  for (var i = 0; i < array.length; i++) {
+  for (let i = 0; i < array.length; i++) {
     console.log('Element ', array[i]);
   }
 
